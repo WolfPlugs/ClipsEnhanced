@@ -1,6 +1,6 @@
 {
   "name": "clips-enhanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "More options for Discord's clip system!",
   "engines": {
     "node": ">=18.0.0",

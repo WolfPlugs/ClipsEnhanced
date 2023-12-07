@@ -7,7 +7,7 @@
     "discordID": "347096063569559553",
     "github": "WolfPlugs"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "github",
     "id": "WolfPlugs/ClipsEnhanced"
@@ -17,5 +17,7 @@
   "renderer": "src/index.ts",
   "plaintextPatches": "src/plainTextpatches.ts",
   "source": "https://github.com/WolfPlugs/ClipsEnhanced",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "image": [
+    "https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"
+  ]
 }
